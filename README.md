@@ -20,17 +20,36 @@ https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530
 _______________________________________________________________________________________________________________________________________________________________________
 
 Fill out
-![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/101777677/175834907-ce61ca35-b255-4c8c-9772-ca70d1560516.JPG)
+![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/101777677/175835018-7457a4fd-9115-46cf-af60-218db20b1040.JPG)
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/TripsbyWeekdayforEachHour?publish=yes
 
 _______________________________________________________________________________________________________________________________________________________________________
 
 Fill out
+![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/101777677/175835026-fc55220d-edaf-40fb-9cc4-8ba4b79d58d0.JPG)
+https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/TripsbyGenderWeekdayperHour?publish=yes
 
+_______________________________________________________________________________________________________________________________________________________________________
 
+Fill out
+![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/101777677/175835060-34833102-42fb-4613-aebf-ad1f9fe1afe5.JPG)
+https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/UserTripsbyGenderbyWeekday?publish=yes
 
+_______________________________________________________________________________________________________________________________________________________________________
 
+Fill out
+![Bike Usage by Gender](https://user-images.githubusercontent.com/101777677/175835095-581d7e46-195b-44f5-842c-12f27fdd8b3c.JPG)
+https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/BikeUsagebyGender?publish=yes
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Fill out
+![Trips by Weekday   Gender](https://user-images.githubusercontent.com/101777677/175835113-c92109bd-dae4-4063-a947-4d00febb9ae5.JPG)
+https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/TripsbyWeekdayGender?publish=yes
+
+_______________________________________________________________________________________________________________________________________________________________________
 
 # Summary:
-
+NYC CitiBike Story 
+https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/NYCCitiBikeStory?publish=yes
 ## There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
