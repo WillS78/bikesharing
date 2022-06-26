@@ -20,8 +20,8 @@ https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530
 _______________________________________________________________________________________________________________________________________________________________________
 
 Fill out
-https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/TripsbyWeekdayforEachHour?publish=yes
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/101777677/175834907-ce61ca35-b255-4c8c-9772-ca70d1560516.JPG)
+https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/TripsbyWeekdayforEachHour?publish=yes
 
 _______________________________________________________________________________________________________________________________________________________________________
 
