@@ -31,19 +31,19 @@ https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-Fill out
+This heat map is reinforcing that Males are using bike share more than Females.
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/101777677/175835060-34833102-42fb-4613-aebf-ad1f9fe1afe5.JPG)
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/UserTripsbyGenderbyWeekday?publish=yes
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-Fill out
+There is a mix of locations but you can see the majority of usage is in the South/East part of Manhattan NY near Grand Central Station. It would appear people are taking the bikes from their home to the subway and back when going to and from work. 
 ![Bike Usage by Gender](https://user-images.githubusercontent.com/101777677/175835095-581d7e46-195b-44f5-842c-12f27fdd8b3c.JPG)
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/BikeUsagebyGender?publish=yes
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-Fill out
+The bar chart is a good visual to show just how many more Males are using the bike share then Females.  
 ![Trips by Weekday   Gender](https://user-images.githubusercontent.com/101777677/175835113-c92109bd-dae4-4063-a947-4d00febb9ae5.JPG)
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/TripsbyWeekdayGender?publish=yes
 
@@ -54,12 +54,12 @@ NYC CitiBike Story
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/NYCCitiBikeStory?publish=yes
 ## There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 
-Fill out
+There is a mix of locations but you can see the majority of usage is in the South/East part of Manhattan NY near Grand Central Station. It would appear people are taking the bikes from their home to the subway and back when going to and from work. 
 ![Bike Usage by Gender](https://user-images.githubusercontent.com/101777677/175835095-581d7e46-195b-44f5-842c-12f27fdd8b3c.JPG)
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/BikeUsagebyGender?publish=yes
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-Fill out
+The bar chart is a good visual to show just how many more Males are using the bike share then Females.  
 ![Trips by Weekday   Gender](https://user-images.githubusercontent.com/101777677/175835113-c92109bd-dae4-4063-a947-4d00febb9ae5.JPG)
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/TripsbyWeekdayGender?publish=yes
