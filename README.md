@@ -17,7 +17,18 @@ Males are 68% more likely to utilize the bike ride share over Females. So you’
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/101777677/175834760-dfcb8a26-c7d7-45b7-911a-fe39dc076186.JPG)
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/CheckoutTimesbyGender?publish=yes
 
-________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
+
+Fill out
+https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/TripsbyWeekdayforEachHour?publish=yes
+![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/101777677/175834907-ce61ca35-b255-4c8c-9772-ca70d1560516.JPG)
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Fill out
+
+
+
 
 
 # Summary:
