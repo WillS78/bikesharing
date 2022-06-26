@@ -19,13 +19,13 @@ https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-Fill out
+Based on the heat map and seeing the most activity through the weekdays (Not weekends) two times each day 7AM-9AM & 4PM-7PM. This would suggest that most people are utilizing the bike share to get to and from work.
 ![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/101777677/175835018-7457a4fd-9115-46cf-af60-218db20b1040.JPG)
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/TripsbyWeekdayforEachHour?publish=yes
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-Fill out
+Fill outWhen you break out this by gender it becomes very clear that Males are more likely to utilize bike share than Females. They’re also most likely using the ride share to get to and from work Monday thru Friday.
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/101777677/175835026-fc55220d-edaf-40fb-9cc4-8ba4b79d58d0.JPG)
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/TripsbyGenderWeekdayperHour?publish=yes
 
