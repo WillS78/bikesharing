@@ -52,7 +52,8 @@ ________________________________________________________________________________
 # Summary:
 NYC CitiBike Story 
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/NYCCitiBikeStory?publish=yes
-## There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+
+Overall you would want to understand how Des Moines population break out is between Males and Females. You'll also want to see how many of those live either less than 25 minutes from their work or a popular public transit. These would help to understand if this will be successful in Des Moines or not.
 
 There is a mix of locations but you can see the majority of usage is in the South/East part of Manhattan NY near Grand Central Station. It would appear people are taking the bikes from their home to the subway and back when going to and from work. 
 ![Bike Usage by Gender](https://user-images.githubusercontent.com/101777677/175835095-581d7e46-195b-44f5-842c-12f27fdd8b3c.JPG)
