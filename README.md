@@ -11,9 +11,13 @@ The majority of the bike ride shares duration are seen within a 20 minute or les
 ![Checkout Times for Users](https://user-images.githubusercontent.com/101777677/175834679-3440c729-77a6-4744-8d31-61a5f824f9a6.JPG)
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/CheckoutTimesforUsers?publish=yes
 
+_______________________________________________________________________________________________________________________________________________________________________
+
 Males are 68% more likely to utilize the bike ride share over Females. So you’ll want to understand the gender population within Des Moines.
 ![Checkout Times by Gender](https://user-images.githubusercontent.com/101777677/175834760-dfcb8a26-c7d7-45b7-911a-fe39dc076186.JPG)
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/CheckoutTimesbyGender?publish=yes
+
+________________________________________________________________________________________________________________________________________________________________________
 
 
 # Summary:
