@@ -53,3 +53,13 @@ ________________________________________________________________________________
 NYC CitiBike Story 
 https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/NYCCitiBikeStory?publish=yes
 ## There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+
+Fill out
+![Bike Usage by Gender](https://user-images.githubusercontent.com/101777677/175835095-581d7e46-195b-44f5-842c-12f27fdd8b3c.JPG)
+https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/BikeUsagebyGender?publish=yes
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Fill out
+![Trips by Weekday   Gender](https://user-images.githubusercontent.com/101777677/175835113-c92109bd-dae4-4063-a947-4d00febb9ae5.JPG)
+https://public.tableau.com/app/profile/will.said/viz/NYCCitiBikes_16562716494530/TripsbyWeekdayGender?publish=yes
